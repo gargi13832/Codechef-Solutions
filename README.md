@@ -8,3 +8,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 2. Enormous Input Test - https://www.codechef.com/problems/INTEST
 3. Add Two Numbers - https://www.codechef.com/problems/FLOW001
 4. Number Mirror - https://www.codechef.com/problems/START01
+5. Sum of Digits - https://www.codechef.com/problems/FLOW006
