@@ -11,3 +11,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 5. Sum of Digits - https://www.codechef.com/problems/FLOW006
 6. Find Remainder - https://www.codechef.com/problems/FLOW002
 7. Small factorials - https://www.codechef.com/problems/FCTRL2
+8. First and Last Digit - https://www.codechef.com/problems/FLOW004
