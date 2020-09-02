@@ -15,3 +15,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 9. Lucky Four - https://www.codechef.com/problems/LUCKFOUR
 10. Reverse The Number - https://www.codechef.com/problems/FLOW007
 11. Finding Square Roots - https://www.codechef.com/problems/FSQRT
+12. Packaging Cupcakes - https://www.codechef.com/problems/MUFFINS3
