@@ -21,3 +21,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 15. Helping Chef - https://www.codechef.com/problems/FLOW008
 16. Chef and Remissness - https://www.codechef.com/problems/REMISS
 17. Chef And Operators - https://www.codechef.com/problems/CHOPRT
+18. Valid Triangles - https://www.codechef.com/problems/FLOW013
