@@ -23,3 +23,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 17. Chef And Operators - https://www.codechef.com/problems/CHOPRT
 18. Valid Triangles - https://www.codechef.com/problems/FLOW013
 19. Mahasena - https://www.codechef.com/problems/AMR15A
+20. The Block Game - https://www.codechef.com/problems/PALL01
