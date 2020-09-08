@@ -24,3 +24,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 18. Valid Triangles - https://www.codechef.com/problems/FLOW013
 19. Mahasena - https://www.codechef.com/problems/AMR15A
 20. The Block Game - https://www.codechef.com/problems/PALL01
+21. Decrement OR Increment - https://www.codechef.com/problems/DECINC
