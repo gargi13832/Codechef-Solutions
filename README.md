@@ -25,3 +25,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 19. Mahasena - https://www.codechef.com/problems/AMR15A
 20. The Block Game - https://www.codechef.com/problems/PALL01
 21. Decrement OR Increment - https://www.codechef.com/problems/DECINC
+22. Primality Test - https://www.codechef.com/problems/PRB01
