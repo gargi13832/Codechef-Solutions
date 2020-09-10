@@ -27,3 +27,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 21. Decrement OR Increment - https://www.codechef.com/problems/DECINC
 22. Primality Test - https://www.codechef.com/problems/PRB01
 23. Id and Ship - https://www.codechef.com/problems/FLOW010
+24. Sum OR Difference - https://www.codechef.com/problems/DIFFSUM
