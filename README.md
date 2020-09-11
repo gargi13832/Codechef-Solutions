@@ -29,3 +29,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 23. Id and Ship - https://www.codechef.com/problems/FLOW010
 24. Sum OR Difference - https://www.codechef.com/problems/DIFFSUM
 25. Total Expenses - https://www.codechef.com/problems/FLOW009
+26. GCD and LCM - https://www.codechef.com/problems/FLOW016
