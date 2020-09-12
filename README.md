@@ -31,3 +31,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 25. Total Expenses - https://www.codechef.com/problems/FLOW009
 26. GCD and LCM - https://www.codechef.com/problems/FLOW016
 27. Ciel and Receipt - https://www.codechef.com/problems/CIELRCPT
+28. Cutting Recipes - https://www.codechef.com/problems/RECIPE
