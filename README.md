@@ -32,3 +32,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 26. GCD and LCM - https://www.codechef.com/problems/FLOW016
 27. Ciel and Receipt - https://www.codechef.com/problems/CIELRCPT
 28. Cutting Recipes - https://www.codechef.com/problems/RECIPE
+29. Gross Salary - https://www.codechef.com/problems/FLOW011
