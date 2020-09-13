@@ -33,3 +33,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 27. Ciel and Receipt - https://www.codechef.com/problems/CIELRCPT
 28. Cutting Recipes - https://www.codechef.com/problems/RECIPE
 29. Gross Salary - https://www.codechef.com/problems/FLOW011
+30. Tanu and Head-bob - https://www.codechef.com/problems/HEADBOB
