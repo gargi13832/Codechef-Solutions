@@ -34,3 +34,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 28. Cutting Recipes - https://www.codechef.com/problems/RECIPE
 29. Gross Salary - https://www.codechef.com/problems/FLOW011
 30. Tanu and Head-bob - https://www.codechef.com/problems/HEADBOB
+31. Grade The Steel - https://www.codechef.com/problems/FLOW014
