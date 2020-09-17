@@ -36,3 +36,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 30. Tanu and Head-bob - https://www.codechef.com/problems/HEADBOB
 31. Grade The Steel - https://www.codechef.com/problems/FLOW014
 32. Greedy puppy - https://www.codechef.com/problems/GDOG
+33. Closing the Tweets - https://www.codechef.com/problems/TWTCLOSE
