@@ -39,3 +39,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 33. Closing the Tweets - https://www.codechef.com/problems/TWTCLOSE
 34. Farmer Feb - https://www.codechef.com/problems/POTATOES
 35. Two v/s Ten - https://www.codechef.com/problems/TWOVSTEN
+36. Rectangle - https://www.codechef.com/problems/RECTANGL
