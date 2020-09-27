@@ -44,3 +44,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 38. Minimum Maximum - https://www.codechef.com/problems/MNMX
 39. Chef and SnackDown - https://www.codechef.com/problems/SNCKYEAR
 40. Area OR Perimeter - https://www.codechef.com/problems/AREAPERI
+41. HOW MANY DIGITS DO I HAVE - https://www.codechef.com/problems/HOWMANY
