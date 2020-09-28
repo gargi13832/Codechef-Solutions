@@ -45,3 +45,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 39. Chef and SnackDown - https://www.codechef.com/problems/SNCKYEAR
 40. Area OR Perimeter - https://www.codechef.com/problems/AREAPERI
 41. HOW MANY DIGITS DO I HAVE - https://www.codechef.com/problems/HOWMANY
+42. Chef and digits of a number - https://www.codechef.com/problems/LONGSEQ
