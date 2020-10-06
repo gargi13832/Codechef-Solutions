@@ -47,3 +47,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 41. HOW MANY DIGITS DO I HAVE - https://www.codechef.com/problems/HOWMANY
 42. Chef and digits of a number - https://www.codechef.com/problems/LONGSEQ
 43. Kitchen Timetable - https://www.codechef.com/problems/KTTABLE
+44. Farmer and his Plot - https://www.codechef.com/problems/RECTSQ
