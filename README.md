@@ -49,3 +49,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 43. Kitchen Timetable - https://www.codechef.com/problems/KTTABLE
 44. Farmer and his Plot - https://www.codechef.com/problems/RECTSQ
 45. ATM Machine - https://www.codechef.com/problems/ATM2
+46. Mutated Minions - https://www.codechef.com/problems/CHN15A
