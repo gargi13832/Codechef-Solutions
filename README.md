@@ -51,3 +51,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 45. ATM Machine - https://www.codechef.com/problems/ATM2
 46. Mutated Minions - https://www.codechef.com/problems/CHN15A
 47. Chef and Easy Queries - https://www.codechef.com/problems/CHEFEZQ
+48. Chef and Rainbow Array - https://www.codechef.com/problems/RAINBOWA
