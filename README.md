@@ -53,3 +53,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 47. Chef and Easy Queries - https://www.codechef.com/problems/CHEFEZQ
 48. Chef and Rainbow Array - https://www.codechef.com/problems/RAINBOWA
 49. Two Numbers - https://www.codechef.com/problems/TWONMS
+50. Chef and Cook-Off - https://www.codechef.com/problems/CCOOK
