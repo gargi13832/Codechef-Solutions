@@ -55,3 +55,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 49. Two Numbers - https://www.codechef.com/problems/TWONMS
 50. Chef and Cook-Off - https://www.codechef.com/problems/CCOOK
 51. Playing with Matches - https://www.codechef.com/problems/MATCHES
+52. Program Your Own CALCULATOR - https://www.codechef.com/problems/URCALC
