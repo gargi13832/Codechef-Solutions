@@ -56,3 +56,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 50. Chef and Cook-Off - https://www.codechef.com/problems/CCOOK
 51. Playing with Matches - https://www.codechef.com/problems/MATCHES
 52. Program Your Own CALCULATOR - https://www.codechef.com/problems/URCALC
+53. CV - https://www.codechef.com/problems/CV
