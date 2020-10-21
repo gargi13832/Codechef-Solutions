@@ -59,3 +59,8 @@ Link to beginner - https://www.codechef.com/problems/school/
 53. CV - https://www.codechef.com/problems/CV
 54. FlatLand - https://www.codechef.com/problems/ICL1902
 55. Buying New Tablet - https://www.codechef.com/problems/TABLET
+
+# Easy
+Link to Easy - https://www.codechef.com/problems/easy/
+
+1. Life, the Universe, and Everything - https://www.codechef.com/problems/TEST
