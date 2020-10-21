@@ -58,3 +58,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 52. Program Your Own CALCULATOR - https://www.codechef.com/problems/URCALC
 53. CV - https://www.codechef.com/problems/CV
 54. FlatLand - https://www.codechef.com/problems/ICL1902
+55. Buying New Tablet - https://www.codechef.com/problems/TABLET
