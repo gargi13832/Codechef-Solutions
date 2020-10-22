@@ -65,3 +65,4 @@ Link to beginner - https://www.codechef.com/problems/school/
 Link to Easy - https://www.codechef.com/problems/easy/
 
 1. Life, the Universe, and Everything - https://www.codechef.com/problems/TEST
+2. Ciel and A-B Problem - https://www.codechef.com/problems/CIELAB
