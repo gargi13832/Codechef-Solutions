@@ -60,6 +60,7 @@ Link to beginner - https://www.codechef.com/problems/school/
 54. FlatLand - https://www.codechef.com/problems/ICL1902
 55. Buying New Tablet - https://www.codechef.com/problems/TABLET
 56. Similar Dishes - https://www.codechef.com/problems/SIMDISH
+57. Lost Weekends - https://www.codechef.com/problems/LOSTWKND
 
 # Easy
 Link to Easy - https://www.codechef.com/problems/easy/
